@@ -1,7 +1,3 @@
-Here’s the translation of your provided section into English, maintaining the structure and formatting:
-
----
-
 # Complete Course to Learn React
 
 ## Table of Contents
