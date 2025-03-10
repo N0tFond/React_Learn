@@ -1,3 +1,7 @@
+# Other languges
+
+[English Version](./other_languages/EN_Readme.md)
+
 # À propos de ce cours React
 
 ## Pourquoi ce cours a été créé
