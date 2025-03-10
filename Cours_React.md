@@ -1,3 +1,56 @@
+# Cours Complet pour Apprendre React
+
+## Table des matières
+
+1. [Introduction à React](#1-introduction-à-react)
+2. [Configuration de l'environnement](#2-configuration-de-lenvironnement)
+3. [Composants et JSX](#3-composants-et-jsx)
+4. [Props et État (State)](#4-props-et-état-state)
+5. [Gestion des événements](#5-gestion-des-événements)
+6. [Rendu conditionnel](#6-rendu-conditionnel)
+7. [Listes et clés](#7-listes-et-clés)
+8. [Formulaires](#8-formulaires)
+9. [Hooks](#9-hooks)
+10. [Context API](#10-context-api)
+11. [Routage avec React Router](#11-routage-avec-react-router)
+12. [Appels API et gestion des données](#12-appels-api-et-gestion-des-données)
+13. [Optimisation et bonnes pratiques](#13-optimisation-et-bonnes-pratiques)
+14. [Projet final](#14-projet-final)
+
+---
+
+## 1. Introduction à React
+
+### Qu'est-ce que React?
+
+React est une bibliothèque JavaScript développée par Facebook pour créer des interfaces utilisateur (UI) interactives. Contrairement à un framework complet, React se concentre uniquement sur la couche vue de votre application.
+
+### Pourquoi utiliser React?
+
+- **Approche déclarative**: Vous décrivez à quoi devrait ressembler votre UI, et React s'occupe de la mettre à jour efficacement
+- **Basé sur les composants**: Vous construisez des interfaces en assemblant des composants réutilisables
+- **Apprendre une fois, écrire partout**: React peut être utilisé pour le web (React), le mobile (React Native), et même la réalité virtuelle (React VR)
+- **Grande communauté**: Écosystème riche et support communautaire important
+
+### Concepts fondamentaux
+
+- **Composants**: Blocs de construction réutilisables pour votre interface
+- **JSX**: Extension syntaxique de JavaScript qui ressemble à du HTML
+- **Virtual DOM**: Représentation en mémoire du DOM réel pour optimiser les mises à jour
+- **Flux de données unidirectionnel**: Les données circulent des composants parents vers les enfants
+
+---
+
+## 2. Configuration de l'environnement
+
+### Méthode 1: Create React App (recommandé pour les débutants)
+
+```bash
+npx create-react-app mon-app-react
+cd mon-app-react
+npm start
+```
+
 ### Méthode 2: Vite (plus rapide et plus léger)
 
 ```shellscript

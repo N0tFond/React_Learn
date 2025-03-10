@@ -1,7 +1,3 @@
-Here is the full translation of your text into English:
-
----
-
 # About This React Course
 
 ## Why This Course Was Created
